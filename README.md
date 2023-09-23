@@ -6,6 +6,9 @@ Horiseon Social Solution Services is a marketing agency with a codebase they wou
 
 While working on this project I learned semantic HTML, website architecture and structure, class and id attributes, and basic CSS formating.
 
+Screenshot of final webpage:
+    ![alt text](assets/images/horiseon_screenshot.png)
+
 ## Usage
 
 Deployed webpage: https://ahgeak.github.io/urban-octo-telegram_wk01/
